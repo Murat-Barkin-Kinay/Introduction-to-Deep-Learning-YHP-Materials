@@ -1,0 +1,6 @@
+numpy>=1.21
+torch>=1.13
+torchvision>=0.14
+matplotlib>=3.4
+ipympl>=0.9
+ipywidgets>=7.6
